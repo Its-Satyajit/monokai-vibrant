@@ -1,11 +1,11 @@
 {
-    "name": "monokai-vibrant",
-    "displayName": "Monokai Vibrant",
+    "name": "monokai-vibrant-fork",
+    "displayName": "Monokai Vibrant (fork)",
     "description": "A very dark and vibrant Monokai based theme.",
     "version": "0.5.3",
-    "publisher": "s3gf4ult",
+    "publisher": "Its-Satyajit",
     "icon": "images/icon.png",
-    "author": "Dylan Marsh <dylan@knoware.co>",
+    "author": "Dylan Marsh <dylan@knoware.co> (s3gf4ult)",
     "license": "MIT",
     "galleryBanner": {
         "color": "#16171d",
@@ -13,12 +13,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/dylantmarsh/monokai-vibrant.git"
+        "url": "https://github.com/Its-Satyajit/monokai-vibrant.git"
     },
     "bugs": {
-        "url": "https://github.com/dylantmarsh/monokai-vibrant/issues"
+        "url": "https://github.com/Its-Satyajit/monokai-vibrant/issues"
     },
-    "homepage": "https://github.com/dylantmarsh/monokai-vibrant/blob/master/README.md",
+    "homepage": "https://github.com/Its-Satyajit/monokai-vibrant/blob/main/README.md",
     "engines": {
         "vscode": "^1.15.0"
     },
