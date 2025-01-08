@@ -16,9 +16,10 @@
         "url": "https://github.com/Its-Satyajit/monokai-vibrant.git"
     },
     "bugs": {
-        "url": "https://github.com/Its-Satyajit/monokai-vibrant/issues"
+
+        "url": "https://github.com/dylantmarsh/monokai-vibrant/issues"
     },
-    "homepage": "https://github.com/Its-Satyajit/monokai-vibrant/blob/main/README.md",
+    "homepage": "https://github.com/dylantmarsh/monokai-vibrant/master/main/README.md",
     "engines": {
         "vscode": "^1.15.0"
     },
