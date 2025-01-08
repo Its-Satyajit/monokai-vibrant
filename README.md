@@ -1,9 +1,11 @@
+I'm excited to introduce **Monokai Vibrant**, a fork of the original [Monokai Vibrant theme](https://marketplace.visualstudio.com/items?itemName=s3gf4ult.monokai-vibrant) for Visual Studio Code. This fork exists solely to make the theme available on the [Open VSX Registry](https://open-vsx.org/extension/tuto193/monokai-vibrant) for users of open-source VS Code alternatives. Once the original author publishes the theme to the Open VSX Registry, this fork will be deprecated.
+
 <p align="center">
-    <img src="https://raw.githubusercontent.com/dylantmarsh/monokai-vibrant/master/images/icon.png" width="80" />
+    <img src="https://raw.githubusercontent.com/dylantmarsh/monokai-vibrant/master/images/icon.png" width="80" alt="Monokai Vibrant Icon" />
     <h2 align="center" style="letter-spacing:2px;font-weight:700">MONOKAI VIBRANT</h2>
 </p>
 
-<p align="center">A very dark and vibrant Monokai based theme.</p>
+<p align="center">A very dark and vibrant Monokai-based theme.</p>
 
 <p align="center">
     <img alt="Visual Studio Marketplace Rating" src="https://img.shields.io/visual-studio-marketplace/r/s3gf4ult.monokai-vibrant?color=%231dd1e5&style=for-the-badge">
@@ -13,20 +15,22 @@
 
 ![Monokai Vibrant JavaScript Example](https://f000.backblazeb2.com/file/app-media/monokai-vibrant.jpg)
 
-* 🌙 Super dark editor color scheme
-* 🍭 Vibrant colors for better readability
-* 💻 Italicized keywords compliments "Operator Mono" or similar fonts (optional)
+**Features:**
 
-## Install
+- 🌙 Super dark editor color scheme
+- 🍭 Vibrant colors for better readability
+- 💻 Italicized keywords complement "Operator Mono" or similar fonts (optional)
 
-1. Open the **Extensions** sidebar in VS Code.
-2. Search for `Monokai Vibrant`. Choose the one by **s3gf4ult**
-3. Click the **Install** button
-4. Go to Preferences ‣ Color Theme ‣ **Monokai Vibrant**
+**Install:**
 
-## Disable Italics
+1. Open the **Extensions** sidebar in your code editor.
+2. Search for `Monokai Vibrant`. Choose the one by **tuto193**.
+3. Click the **Install** button.
+4. Go to Preferences ‣ Color Theme ‣ **Monokai Vibrant**.
 
-If you are not using a font that does not support italics, you can add this to your `settings.json` to disable them.
+**Disable Italics:**
+
+If your font doesn't support italics, add the following to your `settings.json` to disable them:
 
 ```json
 "editor.tokenColorCustomizations": {
@@ -49,10 +53,10 @@ If you are not using a font that does not support italics, you can add this to y
 }
 ```
 
-## Extras
+**Extras:**
 
-A long-term goal of this project is to provide color schemes for other popular applications in the `/extras` folder. A vim/nvim theme would be greatly appreciated if anyone is interested in contributing.
+A long-term goal of this project is to provide color schemes for other popular applications in the `/extras` folder. Contributions, such as a Vim/Neovim theme, are welcome.
 
 ---
 
-Don't forget to leave a review on the marketplace! **Enjoy!**
+Don't forget to leave a review on the Open VSX Registry! **Enjoy!** 
