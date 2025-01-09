@@ -1,4 +1,4 @@
-I'm excited to introduce **Monokai Vibrant**, a fork of the original [Monokai Vibrant theme](https://marketplace.visualstudio.com/items?itemName=s3gf4ult.monokai-vibrant) for Visual Studio Code. This fork exists solely to make the theme available on the [Open VSX Registry](https://open-vsx.org/extension/tuto193/monokai-vibrant) for users of open-source VS Code alternatives. Once the original author publishes the theme to the Open VSX Registry, this fork will be deprecated.
+I'm excited to introduce **Monokai Vibrant**, a fork of the original [Monokai Vibrant theme](https://marketplace.visualstudio.com/items?itemName=s3gf4ult.monokai-vibrant) for Visual Studio Code. This fork exists solely to make the theme available on the [Open VSX Registry](https://open-vsx.org/extension/Its-Satyajit/monokai-vibrant-fork)  for users of open-source VS Code alternatives. Once the original author publishes the theme to the Open VSX Registry, this fork will be deprecated.
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/dylantmarsh/monokai-vibrant/master/images/icon.png" width="80" alt="Monokai Vibrant Icon" />
