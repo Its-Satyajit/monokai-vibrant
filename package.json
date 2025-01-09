@@ -19,7 +19,8 @@
 
         "url": "https://github.com/dylantmarsh/monokai-vibrant/issues"
     },
-    "homepage": "https://github.com/dylantmarsh/monokai-vibrant/master/master/README.md",
+    "homepage": "https://github.com/dylantmarsh/monokai-vibrant/blob/master/README.md",
+    
     "engines": {
         "vscode": "^1.15.0"
     },
